@@ -1,6 +1,6 @@
 ---
 name: Story Template
-about: Use this template when creating new Issue that represents a Story
+about: Use this template when creating a new Issue that represents a Story
 title: As a <user type>, I want to <task> so that <goal>
 labels: ''
 assignees: ''
