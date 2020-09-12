@@ -1,0 +1,16 @@
+[
+  { "name": "Status: Abandoned", "color": "#000000" },
+  { "name": "Status: Accepted", "color": "#ff5733" },
+  { "name": "Status: Requirements Needed", "color": "#0075ca" },
+  { "name": "Status: Design Needed", "color": "#7057ff" },
+  { "name": "Status: Ready for Dev", "color": "#ffffff" },
+  { "name": "Status: In Progress", "color": "#cccccc" },
+  { "name": "Status: Blocked", "color": "#e11d21" },
+  { "name": "Status: On Hold", "color": "#ffffff" },
+  { "name": "Status: Pending Design", "color": "#a2eeef" },
+  { "name": "Status: Dev Completed", "color": "#006b75" },
+  { "name": "Status: Peer Review Needed", "color": "#fbca04" },
+  { "name": "Status: Revision Needed", "color": "#e4e669" },
+  { "name": "Status: Stakeholder/QA Review Needed", "color": "#d876e3" },
+  { "name": "Status: Ready for Production", "color": "#009800" }
+]
