@@ -1,4 +1,8 @@
 [
+    { "name": "Epic", "color": "#3E4B9E" },
+    { "name": "Story", "color": "#3E4B9E" },
+    { "name": "Task", "color": "#3E4B9E" },
+    
     { "name": "Status: Abandon", "color": "#7057ff" },
     { "name": "Status: Accept", "color": "#7057ff" },
     { "name": "Status: Ready for Requirements", "color": "#7057ff" },
@@ -25,7 +29,6 @@
     { "name": "Priority: High", "color": "#009800" },
     { "name": "Priority: Critical", "color": "#009800" },
 
-    { "name": "Epic", "color": "#3E4B9E" },
     { "name": "Type: Bug", "color": "#e11d21" },
     { "name": "Type: Maintenance", "color": "#84b6eb" },
     { "name": "Type: Enhancement", "color": "#84b6eb" },
