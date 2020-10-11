@@ -7,6 +7,7 @@
     { "name": "Status: Accept", "color": "#7057ff" },
     { "name": "Status: Ready for Requirements", "color": "#7057ff" },
     { "name": "Status: Ready for Design", "color": "#7057ff" },
+    { "name": "Status: Ready for Estimation", "color": "#7057ff" },
     { "name": "Status: Ready for Development", "color": "#7057ff" },
     { "name": "Status: Development In Progress", "color": "#7057ff" },
     { "name": "Status: Ready for Peer Review", "color": "#7057ff" },
