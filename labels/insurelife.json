@@ -12,6 +12,7 @@
     { "name": "Status: Development In Progress", "color": "#7057ff" },
     { "name": "Status: Ready for Peer Review", "color": "#7057ff" },
     { "name": "Status: Revision Needed", "color": "#7057ff" },
+    { "name": "Status: Ready for Merge", "color": "#7057ff" },
     { "name": "Status: Ready for Stakeholder/QA Review", "color": "#7057ff" },
     { "name": "Status: Ready for Production", "color": "#7057ff" },
 
