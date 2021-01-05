@@ -1,2 +1,2 @@
 # .github
-Organization Templates
+Organization Templates 
